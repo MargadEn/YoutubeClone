@@ -42,8 +42,4 @@ Welcome to the **YouTube Clone** project! This is a React-based application that
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-Built with ❤️ by [Your Name].
+This project is licensed under the MIT License ❤️
